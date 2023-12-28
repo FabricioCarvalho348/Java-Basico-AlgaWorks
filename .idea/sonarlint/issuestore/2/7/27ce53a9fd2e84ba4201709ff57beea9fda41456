@@ -1,7 +1,0 @@
-
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛĞâ8Ñ–ğ‡Ë1
-J
-java:S5411""(Use a primitive boolean expression here.(Íğßûùÿÿÿÿ8Ô–ğ‡Ë1
-G	java:S106"+Replace this use of System.out by a logger.(ÛŒ×8ò–ğ‡Ë1
-L	java:S106"+Replace this use of System.out by a logger.(¥×‰›ıÿÿÿÿ8ó–ğ‡Ë1
-L	java:S106)"+Replace this use of System.out by a logger.(ñ¤èúÿÿÿÿ8œ¤ò‡Ë1
