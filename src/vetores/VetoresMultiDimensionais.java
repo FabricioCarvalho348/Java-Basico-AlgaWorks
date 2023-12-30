@@ -12,7 +12,7 @@ public class VetoresMultiDimensionais {
 
         Double[][][] faturamentoQuinquenal = new Double[][][]{faturamentoAnual};
 
-        Double[][][][] faturamentoQuinquenal = new Double[][][][]{faturamentoAnual};
+//        Double[][][][] faturamentoQuinquenal = new Double[][][][]{faturamentoAnual};
 
     }
 }
