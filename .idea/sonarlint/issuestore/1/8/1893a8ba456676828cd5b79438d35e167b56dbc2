@@ -1,0 +1,5 @@
+
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "numero".(òìä¤8¸ÿü´Ë1
+L	java:S106"+Replace this use of System.out by a logger.(º¡É´ùÿÿÿÿ8Åÿü´Ë1
+L	java:S106"+Replace this use of System.out by a logger.(ú¡ôÝøÿÿÿÿ8Çÿü´Ë1

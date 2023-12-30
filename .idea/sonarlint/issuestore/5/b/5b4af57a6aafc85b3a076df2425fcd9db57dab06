@@ -1,0 +1,17 @@
+
+s
+java:S1192*"QDefine a constant instead of duplicating this literal ", com o nÃºmero " 4 times.(«şªàûÿÿÿÿ8­÷Š·Ë1
+p
+java:S1192*"NDefine a constant instead of duplicating this literal " Ã© igual a: " 4 times.(«şªàûÿÿÿÿ8­÷Š·Ë1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óè¾ùÿÿÿÿÿ8®÷Š·Ë1
+J
+java:S5411"(Use a primitive boolean expression here.(Ößóøÿÿÿÿ8¯÷Š·Ë1
+G	java:S106$"+Replace this use of System.out by a logger.(š€» 8Ö÷Š·Ë1
+L	java:S106*"+Replace this use of System.out by a logger.(«şªàûÿÿÿÿ8×÷Š·Ë1
+L	java:S106/"+Replace this use of System.out by a logger.(‰©¦Ôÿÿÿÿÿ8Ø÷Š·Ë1
+G	java:S1064"+Replace this use of System.out by a logger.(«§É›8Ø÷Š·Ë1
+L	java:S1069"+Replace this use of System.out by a logger.(”š»Äıÿÿÿÿ8Ù÷Š·Ë1
+G	java:S106="+Replace this use of System.out by a logger.(òÔÇÍ8Ú÷Š·Ë1
+G	java:S106J"+Replace this use of System.err by a logger.(öÌ„Œ8Û÷Š·Ë1
+G	java:S106h"+Replace this use of System.out by a logger.(Æ¼Ø°8Ş÷Š·Ë1
+G	java:S106l"+Replace this use of System.out by a logger.(¼ä®Ü8ß÷Š·Ë1
