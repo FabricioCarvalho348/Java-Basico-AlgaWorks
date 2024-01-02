@@ -22,13 +22,12 @@ public class Exercicio03_Main {
 
         pedido.setCodigo(1);
         pedido.setDesconto(25);
-        pedido.setTotal(175);
+//        pedido.setTotal(175);
         pedido.setSubtotal(200);
 
         System.out.println("O código do pedido é: " + pedido.getCodigo()
                 + ", o Desconto aplicado no pedido foi: " + pedido.getDesconto() +
-                ", o subtotal do pedido é: " + pedido.getSubtotal() +
-                ", o valor do pedido total é: " + pedido.getTotal());
+                ", o subtotal do pedido é: " + pedido.getSubtotal());
 
     }
 }
