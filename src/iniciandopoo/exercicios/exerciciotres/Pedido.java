@@ -4,7 +4,7 @@ public class Pedido {
     private Integer codigo;
     private Integer subtotal;
     private Integer desconto;
-    private Integer total;
+//    private Integer total;
 
     public Integer getCodigo() {
         return codigo;
@@ -15,7 +15,7 @@ public class Pedido {
     }
 
     public Integer getSubtotal() {
-        return subtotal;
+        return subtotal - desconto;
     }
 
     public void setSubtotal(Integer subtotal) {
@@ -30,11 +30,11 @@ public class Pedido {
         this.desconto = desconto;
     }
 
-    public Integer getTotal() {
-        return total;
-    }
-
-    public void setTotal(Integer total) {
-        this.total = total;
-    }
+//    public Integer getTotal() {
+//        return total;
+//    }
+//
+//    public void setTotal(Integer total) {
+//        this.total = total;
+//    }
 }
